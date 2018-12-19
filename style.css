@@ -3,7 +3,6 @@ body {
   font-family: Helvetica;
 }
 .heading{
-  background-color: red;
   background-image: url("./resources/the-flatiron-building.png");
 }
 .heading,
@@ -29,4 +28,14 @@ h3{
 }
 p{
   font-size: 14px;
+}
+.newyork{
+  background-image: url("./resources/the-flatiron-building.png");
+}
+
+.newyork,
+h2{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
