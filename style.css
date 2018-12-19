@@ -39,3 +39,9 @@ h2{
   font-weight: bold;
   color: white;
 }
+.footer{
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
